@@ -1,0 +1,5 @@
+TRK-KEA128 Keil LAB3 - Analog to Digital Converter (ADC) module:
+This lab demonstrates how configure and use the ADC module to read the analog value of the on-board light sensor.
+
+
+http://www.freescale.com/TRK-KEA128 - Downloads - Lab and Test Software
